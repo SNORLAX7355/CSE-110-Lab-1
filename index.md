@@ -4,12 +4,13 @@
 ## Who am I?
 
 I am a second year *Computer Science* major with a minor in *Economics*.
-I'm from Cypress in Orange County and my nationality is Korean. 
+I'm from Cypress in Orange County and my nationality is Korean.\
+
+[My Hobbies](#my-hobbies)\
+[My GitHub](https://github.com/SNORLAX7355)\
+
 A quote I live by that describes my personality is:
 > It is what it is
-
-[My Hobbies](#my-hobbies)
-[My GitHub](https://github.com/SNORLAX7355)
 
 
 ## My Hobbies
@@ -25,4 +26,4 @@ The videogames I tend to play the most are:
 * Minecraft
 * Overwatch
 
-[More about me](extra.md)
+[More about me](./extra.md)
