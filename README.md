@@ -3,4 +3,4 @@ Eliot's User Page
 
 python syntax is so easy to use
 
-Web Page: 
+Web Page: https://snorlax7355.github.io/CSE-110-Lab-1/
