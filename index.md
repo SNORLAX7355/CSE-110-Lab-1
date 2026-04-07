@@ -5,10 +5,8 @@
 
 I am a second year *Computer Science* major with a minor in *Economics*.
 I'm from Cypress in Orange County and my nationality is Korean.\
-
 [My Hobbies](#my-hobbies)\
 [My GitHub](https://github.com/SNORLAX7355)\
-
 A quote I live by that describes my personality is:
 > It is what it is
 
